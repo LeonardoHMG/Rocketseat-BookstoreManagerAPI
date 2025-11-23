@@ -112,3 +112,32 @@ Rocketseat-BookstoreManagerAPI/
 └── README.md
 ```
 
+## 💻 Como Executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/LeonardoHMG/Rocketseat-DesafioPraticoCSharp.git
+```
+
+2. Navegue até o diretório do projeto:
+
+```bash
+cd DesafioPraticoCsharp
+```
+
+3. Execute o projeto no terminal ou no Visual Studio:
+
+```bash
+dotnet run
+```
+
+---
+
+## ✨ Contato
+
+**Desenvolvedor:** Leonardo Henrique Martucci Gussi
+
+**GitHub:** [https://github.com/LeonardoHMG](https://github.com/LeonardoHMG)
+
+
