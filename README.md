@@ -117,13 +117,13 @@ Rocketseat-BookstoreManagerAPI/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/LeonardoHMG/Rocketseat-DesafioPraticoCSharp.git
+git clone https://github.com/LeonardoHMG/Rocketseat-BookstoreManagerAPI.git
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd DesafioPraticoCsharp
+cd Rocketseat-BookstoreManagerAPI
 ```
 
 3. Execute o projeto no terminal ou no Visual Studio:
